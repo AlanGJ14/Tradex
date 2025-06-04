@@ -1,0 +1,48 @@
+# ---- FASTAPI / PYTHON ----
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+*.sqlite3
+*.log
+*.db
+instance/
+.vscode/
+.mypy_cache/
+.pytest_cache/
+*.pkl
+*.DS_Store
+# venvs
+venv/
+.env/
+.env.bak/
+.venv/
+
+# ---- NEXT.JS / NODE ----
+node_modules/
+.next/
+out/
+.env.local
+.env.development
+.env.production
+.env.test
+.npm/
+package-lock.json
+yarn.lock
+.pnpm-store/
+*.log
+
+# ---- GENERAL ----
+# MacOS
+.DS_Store
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
