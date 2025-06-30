@@ -32,15 +32,14 @@ export default function ContentSection() {
               Transformers are a neural network cutting edge architecture that
               allows having more context when forecasting timeseries or be able
               to summarize and analize news. It basically does all the heavy
-              lifting for the common investor who doesn't have the time and
+              lifting for the common investor who doesnt have the time and
               wants their money to be save.
             </p>
 
             <div className="pt-6">
               <blockquote className="border-l-4 pl-4">
                 <p>
-                  "The greatest danger in times of turbulence is not the
-                  turbulence—it is to act with yesterday's logic."
+                  The greatest danger in times of turbulence is not the turbulence—it is to act with yesterdays logic.
                 </p>
 
                 <div className="mt-6 space-y-3">

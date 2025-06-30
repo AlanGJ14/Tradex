@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, run the development ui server:
 
 ```bash
 npm run dev
@@ -13,6 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
+
+Then, run the api server with:
+
+uvicorn main:app --reload --port 8000
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
